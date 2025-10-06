@@ -7,7 +7,7 @@ card checker using python 3.13
 ```
 - git clone https://github.com/KianSantang777/STRIPECHARGED.git
 - pip install requests asyncio aiohttp faker colorama pyfiglet httpx pycryptodome
-- cd vbv
+- cd STRIPECHARGED
 - pip install -r requiremets.txt
 - python cehkz.py
 ```

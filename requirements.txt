@@ -1,5 +1,6 @@
 requests
 httpx
+termcolor
 aiohttp
 pyfiglet
 colorama
@@ -17,3 +18,4 @@ urllib3
 tqdm
 requests[socks]
 httpx[http2]
+

@@ -7,4 +7,13 @@ tqdm
 psutil
 asyncio
 aiofiles
+python-socketio
 pycryptodome
+distro
+faker
+pyfiglet
+websocket-client
+urllib3
+tqdm
+requests[socks]
+httpx[http2]

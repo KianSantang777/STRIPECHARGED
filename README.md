@@ -9,7 +9,7 @@ card checker using python 3.13
 - pip install requests asyncio aiohttp faker colorama pyfiglet httpx pycryptodome
 - cd STRIPECHARGED
 - pip install -r requiremets.txt
-- python cehkz.py
+- python main.py
 ```
 ## Contact DEV
 [TELEGRAM](https://t.me/xqndrs66)
